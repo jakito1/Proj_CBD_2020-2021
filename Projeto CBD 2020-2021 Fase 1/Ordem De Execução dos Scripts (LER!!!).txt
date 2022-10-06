@@ -1,0 +1,10 @@
+ORDEM DE EXECUÇÃO DOS SCRIPTS:
+
+1º: DataBaseCreation_Layout;
+2º: CREATETabelasNovaBD
+3º: Migração de Dados
+4º: NewData
+5º: MetaData
+6º: ScriptVerificaçãoDaBD
+7º: ScriiptGestãoUtilizadores
+8º: ScriptStoredProcedures

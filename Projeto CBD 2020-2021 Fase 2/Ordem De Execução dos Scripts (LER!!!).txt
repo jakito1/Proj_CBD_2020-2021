@@ -1,0 +1,15 @@
+ORDEM DE EXECUÇÃO DOS SCRIPTS:
+
+1º:  DataBaseCreation_Layout (SQLServer);
+2º:  CREATETabelasNovaBD (SQLServer);
+3º:  Migração de Dados (SQLServer);
+4º:  NewData (SQLServer);
+5º:  MetaData (SQLServer);
+6º:  ScriptVerificaçãoDaBD (SQLServer);
+7º:  ScriptGestãoUtilizadores (SQLServer);
+8º:  ScriptStoredProcedures (SQLServer);
+9º:  Índices (SQLServer); 
+10º: Backup&Recuperação (SQLServer);
+11º: NíveisAcesso (SQLServer);
+12º: Transações (SQLServer);
+13º: MongoDB;
